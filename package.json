@@ -28,7 +28,7 @@
     "@actions/core": "1.2.4"
   },
   "devDependencies": {
-    "@types/jest": "24.9.1",
+    "@types/jest": "26.0.3",
     "@types/node": "12.12.47",
     "@typescript-eslint/parser": "3.4.0",
     "@zeit/ncc": "0.20.5",
